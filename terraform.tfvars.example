@@ -1,0 +1,5 @@
+# Copy this file to terraform.tfvars and enter your own subscription ID.
+# Do not commit terraform.tfvars.
+subscription_id = "00000000-0000-0000-0000-000000000000"
+location        = "centralindia"
+environment     = "demo"

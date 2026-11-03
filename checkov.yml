@@ -1,0 +1,6 @@
+# Checkov configuration for this learning demo.
+# Keep checks visible; do not suppress findings without documenting why.
+framework:
+  - terraform
+quiet: false
+soft_fail: true
